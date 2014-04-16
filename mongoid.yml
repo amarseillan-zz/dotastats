@@ -1,0 +1,13 @@
+development:
+  sessions:
+    default:
+      database: dota
+      hosts:
+        - localhost:27017
+
+test:
+  sessions:
+    default:
+      database: dota
+      hosts:
+        - localhost:27017
